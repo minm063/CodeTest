@@ -1,4 +1,4 @@
 # CodeTest
-programmers coding test Level.1<br>
+programmers coding test
 Started 20200919~<br>
 Settle on Saturday
